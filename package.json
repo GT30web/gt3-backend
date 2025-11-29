@@ -1,0 +1,12 @@
+{
+  "name": "gt3-backend",
+  "version": "1.0.0",
+  "description": "Backend NodeJS para GT3 Ultimate (data.json)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
